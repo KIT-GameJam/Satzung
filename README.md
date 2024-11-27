@@ -1,6 +1,7 @@
 # Satzung
 
-Die Satzung der Hochschulgruppe „KIT GameJam“
+Die Satzung der Hochschulgruppe „**KIT GameJam**“.\
+Zur Einfachheit der Sprache wird das generische Maskulinum verwendet
 
 ## § 1 Allgemeines
 
@@ -10,9 +11,9 @@ Die Satzung der Hochschulgruppe „KIT GameJam“
 
 ## § 2 Zweck
 
-1. Zweck der Hochschulgruppe ist die Förderung der Spieleentwicklung an Karlsruher Hochschulen.
-2. Der Satzungszweck wird verwirklicht insbesondere durch das regelmäßige Hosten lokaler GameJams mit zugehörigen
-   Workshops und die Bereitstellung von Räumen, Verpflegung und technischer Infrastruktur.
+1. Zweck der Hochschulgruppe ist die Förderung der Spieleentwicklungskultur an Karlsruher Hochschulen.
+2. Der Satzungszweck wird verwirklicht insbesondere durch die Bereitstellung von Räumen, Verpflegung und technischer
+   Infrastruktur bei GameJams, sowie das regelmäßige Hosten lokaler GameJams mit zugehörigen Workshops.
 3. Die Hochschulgruppe verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts
    „Steuerbegünstigte Zwecke“ der Abgabenordnung.
 4. Die Hochschulgruppe ist selbstlos tätig; sie verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
@@ -30,18 +31,16 @@ Die Satzung der Hochschulgruppe „KIT GameJam“
    verweigert werden.
 3. Die Aufnahme in die Hochschulgruppe ist in Textform beim Vorstand zu beantragen. Der Vorstand entscheidet über den
    Antrag. Gegen die Ablehnung des Antrags kann der Antragssteller binnen eines Monats Widerspruch bei der
-   Mitgliederversammlung erheben. Im diesem Fall entscheidet die Mitgliederversammlung abschließend über die
+   Mitgliederversammlung erheben. In diesem Fall entscheidet die Mitgliederversammlung abschließend über die
    Aufnahme.
 
 ## § 4 Verlust der Mitgliedschaft
 
-1. Die Mitgliedschaft in der Hochschulgruppe endet durch Tod, Austritt oder Ausschluss.
-2. Der Austritt kann nur in Textform erfolgen und ist mit Zugang an ein Mitglied des
-   Vorstandes wirksam.
-3. Der Ausschluss ist nur bei Vorliegen eines wichtigen Grundes durch die Mitgliederversammlung mit zwei Drittel Mehrheit
-   möglich. Dem Mitglied ist Gelegenheit zu geben,
-   in der Mitgliederversammlung zu den Gründen des Ausschlusses Stellung zu nehmen.
-   Diese sind ihr mindestens zwei Wochen vorher mitzuteilen.
+1. Die Mitgliedschaft in der Hochschulgruppe endet durch Austritt, Ausschluss oder Tod.
+2. Der Austritt kann nur in Textform erfolgen und ist mit Zugang an ein Mitglied des Vorstandes wirksam.
+3. Der Ausschluss ist nur bei Vorliegen eines wichtigen Grundes durch die Mitgliederversammlung mit zwei Drittel
+   Mehrheit möglich. Dem Mitglied ist Gelegenheit zu geben, in der Mitgliederversammlung zu den Gründen des Ausschlusses
+   Stellung zu nehmen. Diese sind ihr mindestens zwei Wochen vorher mitzuteilen.
 
 ## § 5 Mitgliedsbeiträge
 
@@ -53,7 +52,7 @@ Organe der Hochschulgruppe sind der Vorstand und die Mitgliederversammlung.
 
 ## § 7 Vorstand
 
-1. Der Vorstand besteht aus dem/der Sprecher:in und seinem/ihrem Stellvertretenden.
+1. Der Vorstand besteht aus dem Sprecher und seinem Stellvertreter.
 2. Den Mitgliedern des Vorstandes obliegt die Vertretung der Hochschulgruppe nach § 26 BGB und die Führung ihrer
    Geschäfte. Die Mitglieder vertreten die Hochschulgruppe jeweils alleine.
 
@@ -75,8 +74,8 @@ Organe der Hochschulgruppe sind der Vorstand und die Mitgliederversammlung.
 1. Die Mitgliederversammlung ist mindestens einmal pro Semester ordentlich einzuberufen.
 2. Die Einberufung erfolgt in Textform durch den Vorstand unter Einhaltung einer Frist von einer Woche und unter Angabe
    der vorläufigen Tagesordnung.
-3. Jedes Mitglied kann bis 24h vor Beginn der Mitgliederversammlung TOP-Vorschläge in Textform an einen für Mitglieder
-   öffentlichen Ort senden. Über die Aufnahme zur Tagesordnung entscheidet der Vorstand.
+3. Jedes Mitglied kann bis zu 24 Stunden vor Beginn der Mitgliederversammlung Top-Vorschläge in Textform an einen für
+   Mitglieder öffentlichen Ort senden. Über die Aufnahme zur Tagesordnung entscheidet der Vorstand.
 4. Über Anträge zur Tagesordnung, die vom Vorstand nicht aufgenommen wurden oder die erstmals in der
    Mitgliederversammlung gestellt werden, entscheidet die Mitgliederversammlung mit der Mehrheit der Stimmen der
    anwesenden Mitglieder; dies gilt nicht für Anträge, die
@@ -91,8 +90,8 @@ Organe der Hochschulgruppe sind der Vorstand und die Mitgliederversammlung.
 
 ## § 11 Beschlussfassung der Mitgliederversammlung
 
-1. Die Mitgliederversammlung wird von dem/der Sprecher:in, bei deren Verhinderung von dem Stellvertretenden,
-   und bei deren Verhinderung von einer durch die Mitgliederversammlung zu wählenden Versammlungsleiter:in geleitet.
+1. Die Mitgliederversammlung wird von dem Sprecher, bei dessen Verhinderung von dem Stellvertreter,
+   und bei dessen Verhinderung von einem durch die Mitgliederversammlung zu wählenden Versammlungsleiter geleitet.
 2. Die Mitgliederversammlung ist beschlussfähig, wenn mindestens ein Drittel aller Mitglieder anwesend ist. Bei
    Beschlussunfähigkeit ist der Vorstand verpflichtet, innerhalb von vier Wochen eine zweite Mitgliederversammlung mit
    der gleichen Tagesordnung einzuberufen. Diese ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder
@@ -102,14 +101,11 @@ Organe der Hochschulgruppe sind der Vorstand und die Mitgliederversammlung.
 4. Die Mitgliederversammlung beschließt, soweit diese Satzung nichts anderes regelt, mit einfacher Mehrheit der
    abgegebenen Stimmen.
 5. Stimmberechtigt sind alle Mitglieder.
-6. Kann bei Wahlen keine Alternative die Mehrheit der Stimmen der anwesenden Mitglieder auf sich vereinen, ist gewählt,
-   was die Mehrheit der abgegebenen gültigen Stimmen erhalten hat; zwischen mehreren Alternative ist eine Stichwahl
-   durchzuführen.
+6. Kann bei Wahlen kein Kandidat die Mehrheit der Stimmen der anwesenden Mitglieder auf sich vereinen, ist gewählt,
+   was die Mehrheit der abgegebenen gültigen Stimmen erhalten hat; bei Gleichstand zwischen mehreren Kandidaten ist eine
+   Stichwahl durchzuführen.
 7. Es darf eine geheime Abstimmung von Anwesenden gefordert werden. Diese wird direkt durchgeführt.
-8. Wenn ein Mitglied verhindert ist, darf es seine Stimme an ein anderes Mitglied übertragen. Dies passiert über einen
-   öffentlichen Antrag in Textform mit Begründung an einem Ort öffentlich für Mitglieder. Ein einzelnes Mitglied darf
-   dabei maximal eine weitere Stimme halten.
-9. Über den Ablauf der Mitgliederversammlung und die gefassten Beschlüsse ist ein Protokoll zu fertigen.
+8. Über den Ablauf der Mitgliederversammlung und die gefassten Beschlüsse ist ein Protokoll zu fertigen.
 
 ## § 12 Änderungen der Satzung
 
@@ -125,5 +121,3 @@ Organe der Hochschulgruppe sind der Vorstand und die Mitgliederversammlung.
 3. Bei Auflösung oder Aufhebung der Hochschulgruppe oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des
    Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft, zwecks
    Verwendung für gemeinnützige Spieleentwicklung.
-
-
