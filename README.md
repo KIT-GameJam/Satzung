@@ -1,7 +1,7 @@
 # Satzung
 
 Die Satzung der Hochschulgruppe „**KIT GameJam**“.\
-Zur Einfachheit der Sprache wird das generische Maskulinum verwendet
+Zur Einfachheit der Sprache wird das generische Maskulinum verwendet.
 
 ## § 1 Allgemeines
 
@@ -59,7 +59,7 @@ Organe der Hochschulgruppe sind der Vorstand und die Mitgliederversammlung.
 ## § 8 Bestellung des Vorstands
 
 1. Die Mitglieder des Vorstands werden von der Mitgliederversammlung aus den Mitgliedern der Hochschulgruppe in
-   allgemeiner, unmittelbarer, freier, und gleicher Wahl für die Dauer von einem Jahr einzeln gewählt.
+   allgemeiner, unmittelbarer, freier und gleicher Wahl für die Dauer von einem Jahr einzeln gewählt.
 2. Die vorzeitige Abberufung eines Vorstandsmitglieds durch die Mitgliederversammlung ist zulässig.
 3. Ein Mitglied bleibt nach Ablauf der regulären Amtszeit bis zur Wahl des Nachfolgenden im Amt.
 
@@ -83,7 +83,7 @@ Organe der Hochschulgruppe sind der Vorstand und die Mitgliederversammlung.
     2. die Auflösung der Hochschulgruppe oder
     3. den Ausschluss eines Mitglieds
 
-   zum Gegenstand haben
+   zum Gegenstand haben.
 5. Der Vorstand hat eine außerordentliche Mitgliederversammlung einzuberufen, wenn es das Interesse der Hochschulgruppe
    erfordert oder wenn mindestens ein Zehntel der Mitglieder dies in Textform unter Angabe des Zwecks und der Gründe
    beantragt.
