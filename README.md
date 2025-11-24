@@ -1,7 +1,10 @@
 # Satzung
 
 Die Satzung der Hochschulgruppe „**KIT GameJam**“.\
-Zur Einfachheit der Sprache wird das generische Maskulinum verwendet.
+Zur Einfachheit der Sprache wird das generische Maskulinum verwendet.\
+Aktueller Vorstand:
+- Sprecher: Elias Lorenz Schaut
+- Stellvertreter: Niklas Tom Kniep
 
 ## § 1 Allgemeines
 
@@ -111,6 +114,7 @@ Organe der Hochschulgruppe sind der Vorstand und die Mitgliederversammlung.
 
 1. Änderungen dieser Satzung sind nur durch die Mitgliederversammlung möglich.
 2. Beschlüsse über eine Änderung der Satzung benötigen die Mehrheit von drei Vierteln der anwesenden Mitglieder.
+3. Die Namen der Vorstandsmitglieder in der Satzung können jederzeit ohne Mitgliederversammlung auf den aktuellen Vorstand geändert werden.
 
 ## § 13 Auflösung; Wegfall steuerbegünstigter Zwecke
 
@@ -121,3 +125,5 @@ Organe der Hochschulgruppe sind der Vorstand und die Mitgliederversammlung.
 3. Bei Auflösung oder Aufhebung der Hochschulgruppe oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des
    Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft, zwecks
    Verwendung für gemeinnützige Spieleentwicklung.
+
+Stand: 24.11.2025
